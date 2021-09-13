@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj": {}
+    "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepDSA\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj": {
+    "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepDSA\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj",
+        "projectUniqueName": "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepDSA\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj",
         "projectName": "PrepChallenges",
-        "projectPath": "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj",
+        "projectPath": "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepDSA\\PrepChallenges\\PrepChallenges\\PrepChallenges.csproj",
         "packagesPath": "C:\\Users\\gordn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepChallenges\\PrepChallenges\\obj\\",
+        "outputPath": "C:\\Users\\gordn\\Documents\\projects\\codefellows\\401net\\PrepDSA\\PrepChallenges\\PrepChallenges\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gordn\\AppData\\Roaming\\NuGet\\NuGet.Config",
