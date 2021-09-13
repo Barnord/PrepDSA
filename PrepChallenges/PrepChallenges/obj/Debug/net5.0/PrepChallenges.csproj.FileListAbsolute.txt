@@ -1,0 +1,16 @@
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\bin\Debug\net5.0\PrepChallenges.exe
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\bin\Debug\net5.0\PrepChallenges.deps.json
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\bin\Debug\net5.0\PrepChallenges.runtimeconfig.json
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\bin\Debug\net5.0\PrepChallenges.runtimeconfig.dev.json
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\bin\Debug\net5.0\PrepChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\bin\Debug\net5.0\ref\PrepChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\bin\Debug\net5.0\PrepChallenges.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.csproj.AssemblyReference.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.AssemblyInfoInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.AssemblyInfo.cs
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.csproj.CoreCompileInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\ref\PrepChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\PrepChallenges\PrepChallenges\obj\Debug\net5.0\PrepChallenges.genruntimeconfig.cache
